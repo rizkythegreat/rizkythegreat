@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**rizkythegreat/rizkythegreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rizky, a Fullstack Web Developer based in Indonesia 🇮🇩  
 
-Here are some ideas to get you started:
+I’m passionate about building scalable web applications and crafting clean, maintainable code. I enjoy working on both the frontend and backend, turning ideas into fully functional digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+#### Frontend
+- HTML, CSS, JavaScript  
+- React.js, Next.js  
+- Tailwind CSS, Bootstrap, SCSS  
+
+#### Backend
+- Node.js, Express.js  
+- Golang  
+
+#### Database
+- MySQL, PostgreSQL  
+- MongoDB  
+
+#### Tools & Others
+- Git & GitHub  
+- REST API  
+- Docker  
+- CI/CD
+
+---
+
+### Currently Learning
+- System Design fundamentals  
+- Cloud services (AWS / GCP)  
+- Backend architecture & performance optimization  
+
+---
+
+### What I Do
+- Develop fullstack web applications  
+- Build RESTful APIs  
+- Design responsive & user-friendly interfaces  
+- Optimize application performance  
+
+---
+
+### Let's Connect!
+- LinkedIn: https://www.linkedin.com/in/rizky-rahman-salam-357b98226/  
+- Portfolio: https://rizkyrahmansalam.my.id  
+- Email: clashikik@gmail.com  
