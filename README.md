@@ -6,6 +6,6 @@ I’m passionate about building scalable web applications and crafting clean, ma
 
 I work with html, css, javascript, typescript, react, tailwind, node.js, express.js, and golang. For databases, I use mysql, postgresql, and mongodb. I'm comfortable with git, github, rest api, docker, and CI/CD.  
 
-I've got a bunch of pinned projects, but my favorite is the [taskflow](https://github.com/rizkythegreat/task-flow).
+I've got a bunch of pinned projects, but my favorite is the [taskflow](https://github.com/rizkythegreat/task-flow) & [ai recruiter assistant](https://github.com/rizkythegreat/ai-recruiter-assistant).
 
 I've built over 40+ public repos, but privately.. it's probably more than 70 at this point.
